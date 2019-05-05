@@ -18,13 +18,18 @@
   background-color: #D2B48C;
 
   font: Verdana;
+			font-family: Verdana, sans-serif;
+			font-size: large;
 
   padding: 20px;
 
 }
 
 
-
+class, not ID!
+.headline { color: #336600; /*pick a color!*/
+		    border-bottom: 2px dotted #336600; }
+			
 #class
 
 {
